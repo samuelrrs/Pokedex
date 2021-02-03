@@ -1,4 +1,4 @@
-# PokeDexx
+# Pokedex
 
 - Pesquise os Pokemons de todas as gerações até então.
 - Filtre pelo nome, tipo, etc.
