@@ -10,12 +10,6 @@
 - Selecione um Pokemon incial.
 - Selecione e favorite 6 Pokemons para seu time.
 
-## <h3> 🖼️ Layout</h3>
-
- <img src="./src/assets/.github/layout1.png">
- <img src="./src/assets/.github/layout2.png">
- <img src="./src/assets/.github/layout3.png">
-
 ## 🚀 Começando
 
 Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
@@ -47,6 +41,22 @@ Rode o comando : YARN ou NPM INSTALL
 ```
 Rodar o comando : yarn start ou npm run
 ```
+
+## <h3> 🖼️ Layout</h3>
+
+<br>
+
+ <img src="./src/assets/.github/layout1.png">
+    <br>
+    <br>
+    <br>
+ <img src="./src/assets/.github/layout2.png">
+    <br>
+    <br>
+    <br>
+ <img src="./src/assets/.github/layout3.png">
+    <br>
+    <br>
 
 ## 🛠️ Construído com
 
