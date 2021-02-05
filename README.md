@@ -48,12 +48,9 @@ Rodar o comando : yarn start ou npm run
 
  <img src="./src/assets/.github/layout1.png">
     <br>
-    <br>
  <img src="./src/assets/.github/layout2.png">
     <br>
-    <br>
  <img src="./src/assets/.github/layout3.png">
-    <br>
     <br>
 
 ## 🛠️ Construído com
