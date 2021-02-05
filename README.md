@@ -1,9 +1,20 @@
-# Pokedex
+<p align='center'><img width='250' src="./src/assets/.github/logo.png"></p>
+<h1 align='center'>Pokedex</h1>
+<p align='center'>
+</p>
+
+## 🚀 Sobre o projeto
 
 - Pesquise os Pokemons de todas as gerações até então.
 - Filtre pelo nome, tipo, etc.
 - Selecione um Pokemon incial.
 - Selecione e favorite 6 Pokemons para seu time.
+
+## <h3> 🖼️ Layout</h3>
+
+ <img src="./src/assets/.github/layout1.png">
+ <img src="./src/assets/.github/layout2.png">
+ <img src="./src/assets/.github/layout3.png">
 
 ## 🚀 Começando
 
