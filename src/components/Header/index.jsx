@@ -4,7 +4,11 @@ import useStyles from "./styles";
 
 const Header = ({ children }) => {
   const styles = useStyles();
-  return <Container className={styles.header}>{children}</Container>;
+  return (
+    <div maxWidth={false} className={styles.header}>
+      {children}
+    </div>
+  );
 };
 
 export default Header;

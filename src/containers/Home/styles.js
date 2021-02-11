@@ -22,6 +22,7 @@ const useStyles = makeStyles(() => ({
     gap: 20,
     color: "white",
     alignItems: "center",
+    width: "100%",
   },
   links: {
     display: "flex",
