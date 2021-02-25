@@ -6,6 +6,8 @@ export default function Routes() {
   return (
     <BrowserRouter>
       <Switch></Switch>
+      <Switch></Switch>
+      <Switch></Switch>
     </BrowserRouter>
   );
 }
