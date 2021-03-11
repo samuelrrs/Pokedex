@@ -19,27 +19,37 @@ Essas instruções permitirão que você obtenha uma cópia do projeto em opera�
 Coisas você precisa para instalar o software e como instalá-lo :
 
 ```
+GIT para clonar o projeto
+```
+
 NPM / YARN
 Node JS
 React JS
+
 ```
 
 ### 🔧 Instalação
 
 ```
+
 Clone ou baixe o ZIP do projeto
+
 ```
 
 Em seguida abra no seu editor de código
 
 ```
+
 Rode o comando : YARN ou NPM INSTALL
+
 ```
 
 ### Para executar :
 
 ```
+
 Rodar o comando : yarn start ou npm run
+
 ```
 
 ## <h3> 🖼️ Layout</h3>
@@ -76,3 +86,4 @@ EM BREVE > [Pokedex]('')
 ---
 
 ⌨️ por [Samuel Ribeiro](https://github.com/samuelrrs) 🚀
+```
