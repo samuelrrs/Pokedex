@@ -32,7 +32,7 @@ function App() {
   }
 
   const prev = async () => {
-    if (!prevUrl) return;
+    if (!prevUrl) return
     setLoading(true);
     let data = await getAllPokemon(prevUrl);
     await loadPokemon(data.results);
