@@ -40,7 +40,7 @@ Em seguida abra no seu editor de código
 
 ```
 
-Rode o comando : YARN ou NPM INSTALL
+Rode o comando: YARN ou NPM INSTALL
 
 ```
 
