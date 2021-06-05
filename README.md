@@ -63,7 +63,7 @@ Rodar o comando : yarn start ou npm run
  <img src="./src/assets/.github/layout3.png">
     <br>
 
-## 🛠️ Construído com
+## 🛠️ Construído com:
 
 - [React JS](https://pt-br.reactjs.org/) - O framework web usado
 - [Yarn](https://yarnpkg.com/) - Gerente de Dependência
