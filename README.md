@@ -52,6 +52,7 @@ Rodar o comando : yarn start ou npm run
 
 ```
 
+```
 ## <h3> 🖼️ Layout</h3>
 
 <br>
@@ -62,7 +63,7 @@ Rodar o comando : yarn start ou npm run
     <br>
  <img src="./src/assets/.github/layout3.png">
     <br>
-
+    
 ## 🛠️ Construído com:
 
 - [React JS](https://pt-br.reactjs.org/) - O framework web usado
